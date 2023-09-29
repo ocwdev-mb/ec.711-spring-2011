@@ -1,0 +1,66 @@
+leftnav:
+- identifier: f03094f3-6e60-d35c-d0bb-ed00551f4c2f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 32a22e0d-e0ad-d673-42ce-41445297fce7
+  name: Introduction, Energy Basics & Human Power
+  pageRef: /video_galleries/intro-energy-basics-human-power/
+  weight: 20
+- identifier: bd09c1cc-93fd-481d-3945-6e105dc16816
+  name: Energy Storage; Measurement Lab
+  pageRef: /video_galleries/energy-storage/
+  weight: 30
+- identifier: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
+  name: Lighting, Biogas
+  pageRef: /video_galleries/lighting-biogas/
+  weight: 40
+- identifier: 97d18199-d8e1-30f9-6762-504a4894e1bc
+  name: Solar
+  pageRef: /video_galleries/solar/
+  weight: 50
+- identifier: 5dd5186b-4a86-f3ff-771b-545e19e9b505
+  name: Wind and Micro-Hydro
+  pageRef: /video_galleries/wind-micro-hydro
+  weight: 60
+- identifier: 40a90435-c335-4575-5ca5-aed11bc98c6a
+  name: Cooking, Stoves & Fuel
+  pageRef: /video_galleries/cooking-stoves-fuel
+  weight: 70
+- identifier: 374104f0-f3d9-30af-2e10-57b34aa6c451
+  name: Trip Planning and Preparations
+  pageRef: /video_galleries/week-7-trip-planning-and-preparations
+  weight: 80
+- identifier: fb9d6e56-eac4-97fb-24b4-6d3ac31a62da
+  name: Community Partner Trips
+  pageRef: /video_galleries/week-8-nicaragua-trip
+  weight: 90
+- identifier: b769b31f-283d-ae0e-ca5f-75068d997bdb
+  name: Projects
+  pageRef: /video_galleries/projects/
+  weight: 100
+- identifier: dafbfcc9-92f8-550b-177a-67a95cb65180
+  name: Problem Set 0
+  pageRef: /video_galleries/intro-energy-basics-human-power/problem-set-0
+  parent: 32a22e0d-e0ad-d673-42ce-41445297fce7
+  weight: 10
+- identifier: 5638dda9-48ce-2cd5-f895-13c4a9b480a7
+  name: Problem Set 1
+  pageRef: /video_galleries/intro-energy-basics-human-power/problem-set-1
+  parent: 32a22e0d-e0ad-d673-42ce-41445297fce7
+  weight: 20
+- identifier: 8c249fc1-ff67-2f6f-b82a-52720d7b2694
+  name: Problem Set 2
+  pageRef: /video_galleries/energy-storage/problem-set-2-personal-energy-consumption-challenge
+  parent: bd09c1cc-93fd-481d-3945-6e105dc16816
+  weight: 10
+- identifier: ca54380a-a427-6bca-928a-60120653283d
+  name: Problem Set 3
+  pageRef: /video_galleries/lighting-biogas/problem-set-3
+  parent: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
+  weight: 10
+- identifier: cc396362-e27a-a416-9fbb-66fd1cb19b76
+  name: Project Results
+  pageRef: /video_galleries/projects/project-results
+  parent: b769b31f-283d-ae0e-ca5f-75068d997bdb
+  weight: 10
